@@ -1,0 +1,8 @@
+# Only the public delivery catalog and its short instructions belong in Git.
+*
+!.gitignore
+!.gitattributes
+!README.md
+!catalog/
+catalog/*
+!catalog/shadow-empire.json
