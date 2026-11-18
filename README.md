@@ -11,5 +11,6 @@
 ## Моды и русификаторы
 
 - [Distant Worlds 2](catalog/distant-worlds-2/)
+- [Signs of Life](catalog/signs-of-life/)
 - [STARLINERS](catalog/starliners/)
 - [Шторм: Солдаты неба](catalog/echelon-wind-warriors/)
