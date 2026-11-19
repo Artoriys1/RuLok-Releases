@@ -13,13 +13,11 @@
 ❤️ Поддержать на Бусти — https://boosty.to/neyrodzen
 ➡️ Подписаться на телеграм, где рассказываю о разработке своей игры и делюсь творчеством — https://t.me/neyrodzen
 
-## Скриншоты RuLok
-
 ![Главное окно RuLok 0.6.21 с библиотекой и каталогом](preview/window.png)
 
 ![Описание русификатора Signs of Life в RuLok 0.6.21](preview/work-info.png)
 
-## Моды и русификаторы
+## Все моды и русификаторы RuLok
 
 - [Distant Worlds 2](catalog/distant-worlds-2/)
 - [Signs of Life](catalog/signs-of-life/)
