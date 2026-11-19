@@ -2,9 +2,9 @@
 
 Моды и русификаторы Artoriys1.
 
-[Скачать RuLok 0.6.21 для Windows](https://github.com/Artoriys1/RuLok-Releases/releases/download/platform-0-6-21-20261119/RuLok-Platform-0.6.21.zip) ([SHA-256](https://github.com/Artoriys1/RuLok-Releases/releases/download/platform-0-6-21-20261119/RuLok-Platform-0.6.21.zip.sha256))
+[Скачать RuLok 0.6.22 для Windows](https://github.com/Artoriys1/RuLok-Releases/releases/download/platform-0-6-22-20261119/RuLok-Platform-0.6.22.zip) ([SHA-256](https://github.com/Artoriys1/RuLok-Releases/releases/download/platform-0-6-22-20261119/RuLok-Platform-0.6.22.zip.sha256))
 
-✅ Для первого запуска распакуйте ZIP целиком в отдельную папку и запустите `Setup-RuLok-Hub-0.6.21.exe`. Можно быстро добавить ярлык на рабочий стол по кнопке «Создать ярлык».
+✅ Для первого запуска распакуйте ZIP целиком в отдельную папку и запустите `Setup-RuLok-Hub-0.6.22.exe`. Можно быстро добавить ярлык на рабочий стол по кнопке «Создать ярлык».
 
 Нажмите на круговую кнопку, чтобы проверить обновления платформы и скачать их. Для старых версий со снятым каналом используйте актуальный ZIP. Добавляйте игры из правой половины по кнопке «Подключить». Через ту же кнопку можно подключить ещё одну папку той же игры. Постоянно перекачивать архивы вручную для игр или платформы не нужно. Кнопка «Обновить» в правой части подгрузит актуальный список игр и модов для них. Управляйте играми и обновляйте переводы, когда они выйдут.
 
@@ -14,9 +14,9 @@
 
 ➡️ Подписаться на телеграм, где рассказываю о разработке своей игры и делюсь творчеством — https://t.me/neyrodzen
 
-![Главное окно RuLok 0.6.21 с библиотекой и каталогом](preview/window.png)
+![Главное окно RuLok 0.6.22 с библиотекой и каталогом](preview/window.png)
 
-![Описание русификатора Signs of Life в RuLok 0.6.21](preview/work-info.png)
+![Описание русификатора Signs of Life в RuLok 0.6.22](preview/work-info.png)
 
 ## Все моды и русификаторы RuLok
 
