@@ -2,10 +2,11 @@
 
 Полный перевод. Перевёл интерфейс, исследования и подсказки. Перевёл названия кораблей и добавил новые варианты.
 
-Поддерживается релиз Steam, сборка 26671885. В настройках игры выберите English.
+Версия 0.1.5. Проверенная сборка Steam 26849340.
 
-[Скачать полный архив 0.1.2](https://github.com/Artoriys1/RuLok-Releases/releases/download/starliners-ru-0-1-2/RuLok-STARLINERS-0.1.2.zip) ([SHA-256](https://github.com/Artoriys1/RuLok-Releases/releases/download/starliners-ru-0-1-2/RuLok-STARLINERS-0.1.2.zip.sha256)).
+[Скачать платформу RuLok 0.6.35](../../README.md)
 
-Распакуйте ZIP, запустите EXE и укажите папку игры. Эту же версию можно установить из RuLok.
+Закройте игру. В RuLok откройте STARLINERS, подключите папку игры и выберите «Установить» или «Обновить».
+В игре выберите English. Чтобы удалить перевод, выберите «Удалить» в RuLok.
 
 Автор: Artoriys1.
